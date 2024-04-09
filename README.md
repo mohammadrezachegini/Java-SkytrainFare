@@ -11,3 +11,8 @@ The SkyTrain Fare Checker is a Java-based application designed to allow users to
 - **Dynamic Fare Calculation**: Calculates fares based on user selections, including station zones, payment methods, and passenger types.
 - **Database Integration**: Utilizes a database to store and retrieve station information, ensuring up-to-date fare calculations.
 - **Customizable Options**: Supports various payment methods and passenger types for accurate fare estimation.
+
+### Prerequisites
+
+- Java Development Kit (JDK) installed on your machine
+- Access to a database containing the SkyTrain stations and fare information (the application is designed to connect to a database for its data).
